@@ -2,8 +2,8 @@ import pandas as pd
 import pymongo
 
 
-atlas_username = ???
-atlas_password = ???
+atlas_username = ????
+atlas_password = ????
 atlas_cluster = 'cluster0'
 
 client = pymongo.MongoClient(
